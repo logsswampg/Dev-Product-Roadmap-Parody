@@ -1,0 +1,2 @@
+# Planning
+Remove unnecessary parentheses from single-argument functions
